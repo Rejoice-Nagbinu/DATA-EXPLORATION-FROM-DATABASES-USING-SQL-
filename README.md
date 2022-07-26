@@ -30,8 +30,22 @@ Our dataset contains 5 tables, it is the dataset of an imaginary company John&Jo
 
 1. My Manager wants to see the time a web channel is being used, it's account ID, and the channel name for the first 15, obviously I wouldn't need to get the whole data, just a limited one for the first 15
 ![Screenshot_20220722-230603_1](https://user-images.githubusercontent.com/107328546/180627542-168e6775-38b2-43cf-881d-c076e8e3a2e0.jpg)
-![Screenshot_20220722-230603_2](https://user-images.githubusercontent.com/107328546/180627545-8c7a87f5-a682-499f-afe5-13a1bd736139.jpg)
+![Screenshot_20220722-230603_2](https://user-images.githubusercontent.com/107328546/180627545-8c7a87f5-a682-499f-afe5-13a1bd736139.jpg) 
 
+2. My Manager wants to see the top 5 orders placed and in terms of the amount paid for the order, how do I go about this, I'd write a query to show the account ID, and ID of the company placing the order as well as to show the amount paid 
+
+
+3. My manager wants to see details about just the company exxon mobil, to get this I'd write a query to show the name, website and primary point of contact of exxonmobil with our company  
+
+
+4. My Manager wants me to find the percentage of revenue that comes from the sales of Poster paper, to do this I'll write a query that returns the account ID, the ID of the company that places each other as well as the percentage for each other 
+
+
+5. My manager wants to get names of companies in alphabetical order, he wants to start with the companies with letter C, to get this I'll write a query that returns all the names of companies that start with the letter C 
+
+ 
+6. My manager wants to see all the information regarding individuals who were contacted via the organic or adwords channels, and that started their account at any point in 2016, he wants to see it from the newest to the oldest, to get this I'll write a query that gets all the information on each individual regarding the conditions my manager wants the channels would just include "adwords and organic" for the 2016 up to the last day of 2016
+  
 
 
 
